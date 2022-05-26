@@ -1,4 +1,4 @@
-# Advanced Encryption Standard (AES)
+# Advanced Encryption Standard (AES) Java Implematation
 
 I implemented AES in java. In the main method, I pass a 16-byte plaintext message and a 16-byte cipher key to the Encrypt method of the class AES.java. The method encrypts the message using the key and then decrypts it by calling the Decrypt method.
 
