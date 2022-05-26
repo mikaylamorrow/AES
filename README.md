@@ -33,8 +33,10 @@ I also created several helper methods to help me code this algorithm:
 
 ### Example input and output:
 1- Input has a lower-case “s”
+
 ![image](https://user-images.githubusercontent.com/57641878/170394107-f97b418d-784e-4ba0-9366-54e87aa4ad31.png)
 
 2- Changed Input to have upper-case “S”
+
 ![image](https://user-images.githubusercontent.com/57641878/170394124-f48111b4-6c1f-4f01-87ad-628b5a99876b.png)
 
